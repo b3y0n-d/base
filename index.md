@@ -1,6 +1,6 @@
 ```markdown
 ---
-layout: home
+layout: page
 ---
 
 ## Clinical Guidelines & Reference Manuals
